@@ -6,6 +6,7 @@ import heartFill from './assets/heart-fill.svg';
 import heartStroke from './assets/heart-stroke.svg';
 
 function App() {
+  console.log("test change")
   return (
     <div
       style={{
